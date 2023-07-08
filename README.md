@@ -1,3 +1,5 @@
+# Help URL
+https://www.c-sharpcorner.com/article/building-ai-chatbot-app-with-chatgpt-api-in-angular/
 # ChatBOT
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
